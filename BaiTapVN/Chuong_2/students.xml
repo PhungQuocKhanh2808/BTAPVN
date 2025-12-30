@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Students><Student id="SV001"><Name>Tran Thi B</Name><BirthYear>2001</BirthYear><Class>K61CNTT</Class><Gender>Nu</Gender></Student><Student id="SV002"><Name>Le Van C</Name><BirthYear>2000</BirthYear><Class>K61CNTT</Class><Gender>Nam</Gender></Student><Student id="SV003"><Name>Pham Van D</Name><BirthYear>2002</BirthYear><Class>K61HTTT</Class><Gender>Nam</Gender></Student></Students>
